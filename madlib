@@ -1,0 +1,10 @@
+# python beginner project1 - Madlib
+
+noun= input("noun: ")
+verb1= input("Adjective: ")
+adjective1= input("Adjective: ")
+adjective2= input("Adjective: ")
+
+madlib=f"I love watching {noun} series. As I like the character of {verb1} which is very {adjective1} \
+and the plot is {adjective2}"
+print(madlib)
